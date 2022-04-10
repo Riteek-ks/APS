@@ -1,2 +1,0 @@
-# APS
-Algorithm Problem Solving
